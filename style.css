@@ -707,6 +707,17 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    padding-bottom: 2rem;
+}
+
+q {
+    font-size: 2.5rem;
+    font-style: italic;
+}
+
+.maximeguibard {
+    font-size: 2rem;
+    font-weight: 600;
 }
 
 h3 {
