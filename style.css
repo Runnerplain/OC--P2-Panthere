@@ -335,6 +335,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    font-weight: bold;
 }
 
 .navbar-toggle {
@@ -717,7 +718,6 @@ q {
 
 .maximeguibard {
     font-size: 2rem;
-    font-weight: 600;
 }
 
 h3 {
