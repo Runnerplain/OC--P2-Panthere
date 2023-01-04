@@ -655,6 +655,11 @@ a {
     color: #1b1b1b!important;
 }
 
+.foot-up-social {
+    color: #FFFFFF!important;
+    font-size: 15px!important;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -678,7 +683,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -748,7 +753,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #ffffff!important;
 }
 
 .portfolio-thumb {
@@ -766,7 +771,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(0, 0, 0, .7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -784,12 +789,12 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #8C3818;
 }
 
 .tc-white {
-    color: rgba(243, 151, 108, 1)!important;
-    filter: contrast(1.5);
+    color: rgb(255, 255, 255)!important;
+
 }
 
 .btn-atomic-tangerine {
@@ -822,6 +827,16 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
+}
+
+.col-sm-6 p {
+    font-size:18px;
+    text-align: center;
+    padding-top: 10rem;
+}
+
+.col-sm-6 a {
+    text-decoration: underline;
 }
 
 .bg-lines-h2-bg {
